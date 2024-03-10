@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Myself, Vishwajeet Haralkar and Final Year student</h3>
+<h3 align="left">Myself, Vishwajeet Haralkar and Web Enthusiast</h3>
 
 ###
 
