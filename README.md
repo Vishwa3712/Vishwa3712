@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I aspire to become a Software Developer.<br>📚 Currently, I'm learning TypeScript.<br>🎲 Fun fact: The original name of Windows was Interface Manager.</p>
+<p align="left">✨ I am a Software Developer passionate about building impactful web applications.<br>💻 With a focus on full-stack development, I enjoy working with a variety of technologies to create seamless user experiences.<br>🌱 I am constantly learning and expanding my skill set to keep up with the ever-evolving tech landscape.<br>🎲 Fun fact: The original name of Windows was Interface Manager.</p>
 
 ###
 
@@ -36,7 +36,6 @@
 - npm
 - Python
 - Azure
-- Azure Data Studio
 
 ###
 
@@ -78,8 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredata/azuredata-original.svg" height="40" alt="Azure Data Studio logo"  /> 
 </div>
 
 ###
