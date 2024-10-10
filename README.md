@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Myself, Vishwajeet Haralkar, a Web Enthusiast</h3>
+<h3 align="left">Myself, Vishwajeet Haralkar, a Web Enthusiast and Backend Developer with Java</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a Software Developer passionate about building impactful web applications.<br>💻 With a focus on full-stack development, I enjoy working with a variety of technologies to create seamless user experiences.<br>🌱 I am constantly learning and expanding my skill set to keep up with the ever-evolving tech landscape.<br>🎲 Fun fact: The original name of Windows was Interface Manager.</p>
+<p align="left">✨ I am a Software Developer with a passion for both frontend and backend development.<br>💻 I enjoy building applications that deliver seamless user experiences and robust backend solutions.<br>🌱 I am constantly learning and expanding my skill set to keep up with the ever-evolving tech landscape.<br>🎲 Fun fact: The original name of Windows was Interface Manager.</p>
 
 ###
 
